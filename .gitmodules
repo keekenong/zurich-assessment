@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/keekenong/zurich-nestjs.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/keekenong/zurich-nextjs.git
